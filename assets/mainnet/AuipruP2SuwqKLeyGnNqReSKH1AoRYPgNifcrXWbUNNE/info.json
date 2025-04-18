@@ -1,0 +1,13 @@
+{
+  "name": "Inauguration Token",
+  "symbol": "INAUG",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/InaugCoin/token-list/main/assets/mainnet/AuipruP2SuwqKLeyGnNqReSKH1AoRYPgNifcrXWbUNNE/logo.png",
+  "tags": ["utility-token", "community", "inaugcoin"],
+  "extensions": {
+    "website": "https://www.inaugcoin.com",
+    "twitter": "https://twitter.com/inaugcoin",
+    "github": "https://github.com/InaugCoin",
+    "description": "INAUG is a community-driven utility token empowering web3 access, recognition, and rewards."
+  }
+}
